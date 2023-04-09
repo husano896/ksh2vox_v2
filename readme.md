@@ -1,3 +1,3 @@
-# ksh2vox_v1
+# ksh2vox_v2
 
-Something I wrote back in 2015 that convert some Infinite Infection chart to something.
+Something I wrote back in 2015 that convert some gravity wars chart to something.

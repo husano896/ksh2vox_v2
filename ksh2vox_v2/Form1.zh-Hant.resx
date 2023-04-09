@@ -117,10 +117,53 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="Timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
-  <metadata name="$this.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
+  <data name="button1.Text" xml:space="preserve">
+    <value>讀取</value>
+  </data>
+  <data name="button2.Text" xml:space="preserve">
+    <value>儲存</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="linkLabel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>29, 12</value>
+  </data>
+  <data name="linkLabel1.Text" xml:space="preserve">
+    <value>複製</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>29, 12</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>背景</value>
+  </data>
+  <data name="checkBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 16</value>
+  </data>
+  <data name="checkBox1.Text" xml:space="preserve">
+    <value>只顯示單難度</value>
+  </data>
+  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>53, 12</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>對應版本</value>
+  </data>
+  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>247, 84</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>K-Shoot MANIA 對應版本 : v1.50 beta1 (或更早)
+
+以C# 編寫(VS 2015)
+
+By xFly
+
+請不要搬運本家譜面→＿→</value>
+  </data>
+  <data name="checkBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>182, 16</value>
+  </data>
+  <data name="checkBox2.Text" xml:space="preserve">
+    <value>使用第二音源做為FX ( 02.wav)</value>
+  </data>
 </root>
